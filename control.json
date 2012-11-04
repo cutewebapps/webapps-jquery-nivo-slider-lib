@@ -1,0 +1,10 @@
+{
+    "name"    : "webapps-jquery-nivo-slider-lib", 
+    "version" : "0.1.0",
+    "classes" : ["JQueryNivoSlider"],
+    "static"  : ["jquery-nivo-slider-lib"],
+    "deps"    : [
+        "webapps-framework-lib",
+	"webapps-jquery-lib"
+    ]
+}
